@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+%40+SRM+Institute+%7C+CGPA%3A+8.5;%F0%9F%94%AC+ML+Research+Intern+%40+IIT+Goa+%7C+TFT+%2B+ARIMA;%F0%9F%9A%80+Builder+of+BLARAA+Systems+%E2%80%94+EU+CBAM+Carbon+SaaS;%F0%9F%A4%96+Deep+Learning+%7C+Computer+Vision+%7C+FinTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=ML+Engineer+%7C+AI+Researcher+%7C+Full-Stack+Dev;Research+Intern+%40+IIT+Goa+%7C+PyTorch+%2B+TFT;Building+BLARAA+Systems+%E2%80%94+EU+CBAM+SaaS;Deep+Learning+%7C+Computer+Vision+%7C+FinTech;AWS+Certified+%7C+Open+to+Internships+2026" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,7 +33,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **B.Tech Computer Science** @ **SRM Institute of Science and Technology**, Chennai *(Expected 2027)* | **CGPA: 8.5**
+- 🎓 **B.Tech Computer Science** @ **SRM Institute of Science and Technology**, Chennai *(Expected 2027)*
 - 🔬 **ML Research Intern** @ **Indian Institute of Technology (IIT), Goa** *(May–Jul 2025)* — Built end-to-end financial forecasting pipelines: ARIMA → **Temporal Fusion Transformer (TFT)**, achieving an **18% reduction in coverage interval error**
 - 💼 **Summer Intern** @ **Grant Thornton Bharat LLP** *(Jun–Jul 2024)* — Technology Advisory, audit workflows & internal control frameworks
 - 🏆 **AWS Certified** — AI Practitioner & Cloud Practitioner *(Valid Apr 2026–Apr 2029)*
@@ -278,8 +278,6 @@
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arrya5&color=6AD3F7&style=flat-square&label=Profile+Views)
 
