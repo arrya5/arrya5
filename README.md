@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arrya%20Thakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Full-Stack%20Builder&descSize=16&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arrya%20Thakur&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55"/>
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+%40+SRM+Institute+of+Science+%26+Technology;%F0%9F%94%AC+ML+Research+Intern+%40+IIT+Goa;%F0%9F%9A%80+Building+BLARAA+Systems+%E2%80%94+EU+CBAM+Carbon+SaaS;%F0%9F%A4%96+Passionate+about+ML+Engineering+%26+AI+Research" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+%40+SRM+Institute+%7C+CGPA%3A+8.5;%F0%9F%94%AC+ML+Research+Intern+%40+IIT+Goa+%7C+TFT+%2B+ARIMA;%F0%9F%9A%80+Builder+of+BLARAA+Systems+%E2%80%94+EU+CBAM+Carbon+SaaS;%F0%9F%A4%96+Deep+Learning+%7C+Computer+Vision+%7C+FinTech" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -14,139 +16,248 @@
 [![AWS AI Practitioner](https://img.shields.io/badge/AWS%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 
-📍 India 🇮🇳 | 📧 [arryathakur5@gmail.com](mailto:arryathakur5@gmail.com)
+📍 Chennai, India 🇮🇳 &nbsp;|&nbsp; 📞 +91-9816979777 &nbsp;|&nbsp; 📧 [arryathakur5@gmail.com](mailto:arryathakur5@gmail.com)
 
 </div>
 
+---
+
 <!-- GitHub Profile Trophy -->
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=arrya5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arrya5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  </a>
 </p>
 
-<hr/>
+---
 
 ## 🧠 About Me
 
-- 🎓 **B.Tech CSE** @ **SRM Institute of Science and Technology** (2023–2027)
-- 🔬 **ML Research Intern** @ **IIT Goa** — Built end-to-end financial time series forecasting pipelines (ARIMA → Temporal Fusion Transformer), achieving **18% reduction in coverage interval error**
-- 🚀 I build ML systems that go beyond notebooks — **into production**
-- 🌍 Currently building: **[BLARAA Systems](https://github.com/arrya5/BLARAA-SYSTEMS)** — EU CBAM Carbon Compliance SaaS (live on Vercel + Render)
+- 🎓 **B.Tech Computer Science** @ **SRM Institute of Science and Technology**, Chennai *(Expected 2027)* | **CGPA: 8.5**
+- 🔬 **ML Research Intern** @ **Indian Institute of Technology (IIT), Goa** *(May–Jul 2025)* — Built end-to-end financial forecasting pipelines: ARIMA → **Temporal Fusion Transformer (TFT)**, achieving an **18% reduction in coverage interval error**
+- 💼 **Summer Intern** @ **Grant Thornton Bharat LLP** *(Jun–Jul 2024)* — Technology Advisory, audit workflows & internal control frameworks
+- 🏆 **AWS Certified** — AI Practitioner & Cloud Practitioner *(Valid Apr 2026–Apr 2029)*
+- 🥉 **3rd Place** — IdeaSpark Ideathon, Founders Club SRM *(2024)*
+- 🌍 Building **[BLARAA Systems](https://github.com/arrya5)** — EU CBAM Carbon Compliance SaaS (React + FastAPI + Vercel)
+- 🎯 Areas of Interest: **FinTech & Algorithmic Trading · Deep Learning · Computer Vision · Full-Stack Dev**
 - 📚 Seeking: **ML Engineering internships & AI research roles** (Summer/Fall 2026) | Full-time from mid-2027
-- 🏆 **AWS Certified** — AI Practitioner & Cloud Practitioner
-- 📬 Reach me: **arryathakur5@gmail.com**
 
-<hr/>
+---
 
-## 🚀 Languages and Tools
+## 🚀 Tech Stack
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div align="center">
+
+### Languages & Web
+<table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48"/>
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48"/>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-      <br>React
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48"/>
+      <br>React.js
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48"/>
+      <br>REST APIs
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48"/>
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48"/>
       <br>AWS
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="48" height="48"/>
+      <br>SQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48"/>
       <br>GitHub
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-      <br>MySQL
-    </td>
   </tr>
+</table>
+
+### ML / AI / Data
+<table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/>
       <br>PyTorch
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
-      <br>TensorFlow
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48"/>
+      <br>OpenCV
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
+      <br>Pandas
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+      <br>NumPy
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48"/>
+      <br>Sklearn
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/>
       <br>FastAPI
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48"/>
+      <br>Streamlit
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Gemini API" width="48" height="48"/>
+      <br>Gemini API
+    </td>
+  </tr>
+</table>
+
+### Databases & Infra
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
-      <br>MongoDB
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/>
+      <br>SQLite
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
       <br>Node.js
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/>
+      <br>Express.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
       <br>Git
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="48" height="48"/>
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
       <br>Linux
     </td>
   </tr>
 </table>
+
 </div>
 
-<hr/>
+---
+
+## 💼 Experience
+
+### 🔬 ML Research Intern — Indian Institute of Technology, Goa *(May 2025 – Jul 2025)*
+> *Goa, On-Site*
+
+- Engineered an end-to-end forecasting system from classical **ARIMA → Temporal Fusion Transformer (TFT)** for quantile-based stock prediction, achieving an **18% reduction in coverage interval error**
+- Developed advanced architectures including **Gated-Attention LSTM** and hybrid **LSTM-LightGBM** ensemble; automated hyperparameter search with **Optuna** (200+ trials) and **PyTorch Lightning**
+- Architected a **leak-proof data pipeline** with automated `yfinance` ingestion, comprehensive feature engineering, and rigorous time-series cross-validation
+
+### 💼 Summer Intern — Grant Thornton Bharat LLP *(Jun 2024 – Jul 2024)*
+> *Gurugram, Remote*
+
+- Analysed audit workflows and internal control frameworks within the **Technology Advisory** practice
+- Developed working understanding of **risk assessment methodologies** and professional standards in external audit
+
+---
 
 ## 🏆 Featured Projects
 
 <table>
 <tr>
-  <td width="50%">
-    <h3 align="center">🌍 BLARAA Systems</h3>
-    <p align="center">
-      <a href="https://github.com/arrya5/BLARAA-SYSTEMS">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+  <td width="50%" valign="top">
+    <h3>🌍 BLARAA Systems</h3>
+    <p><em>EU CBAM Carbon Compliance SaaS · 2025–Present</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
     </p>
-    <p>EU CBAM Carbon Compliance SaaS — live on <strong>Vercel + Render</strong>. Full-stack platform helping companies navigate EU carbon border adjustment regulations.</p>
+    <p>Compliance engine automating <strong>EU Regulation 2023/1773</strong> reporting. Calculates Scope 1 & 2 emissions, generates legally valid XML files, implements a "Glass Box" audit trail with SQLite + Pydantic validators.</p>
+    <a href="https://github.com/arrya5"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   </td>
-  <td width="50%">
-    <h3 align="center">📈 Financial Time Series Forecasting</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/ML%20Research-IIT%20Goa-blue?style=for-the-badge" />
+  <td width="50%" valign="top">
+    <h3>🚗 Real-Time Accident Detection System</h3>
+    <p><em>Computer Vision Research Project · 2025–Present</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MobileNet_V2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
     </p>
-    <p>End-to-end forecasting pipeline: ARIMA → <strong>Temporal Fusion Transformer</strong>. Achieved <strong>18% reduction</strong> in coverage interval error in production.</p>
+    <p>Low-latency pipeline using <strong>Transfer Learning (MobileNet V2)</strong> with 3-phase progressive fine-tuning + custom Temporal Smoothing. Runs at <strong>25+ FPS</strong>; SMTP alerts with evidentiary screenshots to emergency services.</p>
+    <a href="https://github.com/arrya5"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>🎤 IELTS AI-Shadow</h3>
+    <p><em>GenAI Application · 2025</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini%202.0%20Flash-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </p>
+    <p>Live IELTS Speaking examiner conducting full mock interviews with <strong>band score prediction (0–9 scale)</strong>. Selected for <strong>Leap Finance "Shadow a Founder"</strong> challenge. Deployed publicly on Streamlit.</p>
+    <a href="https://github.com/arrya5"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </td>
+  <td width="50%" valign="top">
+    <h3>📈 Investment Portfolio Management System</h3>
+    <p><em>Full-Stack Stock Tracking App · 2025</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+    </p>
+    <p>Secure full-stack platform for tracking stock holdings & analysing portfolio performance via a dynamic React dashboard and RESTful backend with <strong>JWT authentication</strong>.</p>
+    <a href="https://github.com/arrya5"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   </td>
 </tr>
 </table>
 
-<hr/>
+---
+
+## 🏅 Certifications & Achievements
+
+| Award | Details | Year |
+|-------|---------|------|
+| 🏆 AWS Certified AI Practitioner | Valid Apr 2026 – Apr 2029 | 2024 |
+| ☁️ AWS Certified Cloud Practitioner | Valid Apr 2026 – Apr 2029 | 2024 |
+| 🥉 3rd Place — IdeaSpark Ideathon | Founders Club, SRM | 2024 |
+| 🔬 ML Research Intern | Indian Institute of Technology (IIT), Goa | 2025 |
+| 🌐 Rotary International Volunteer | 21+ hours, Community Development Projects | 2025 |
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arrya5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrya5&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arrya5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrya5&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 
 </div>
 
@@ -156,23 +267,24 @@
 
 </div>
 
-<hr/>
+---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arrya5/arrya5/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arrya5&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
-<hr/>
+---
 
 <div align="center">
 
-<!-- Animated Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arrya5&color=6AD3F7&style=flat-square&label=Profile+Views)
 
 **Thanks for visiting! Let's build something amazing together 🚀**
+
+*Open to ML Engineering internships & AI Research roles — Summer/Fall 2026*
 
 </div>
