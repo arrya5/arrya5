@@ -25,7 +25,7 @@
 <!-- GitHub Profile Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arrya5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=arrya5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
   </a>
 </p>
 
