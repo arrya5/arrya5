@@ -37,7 +37,7 @@
 - 🔬 **ML Research Intern** @ **Indian Institute of Technology (IIT), Goa** *(May–Jul 2025)* — Built end-to-end financial forecasting pipelines: ARIMA → **Temporal Fusion Transformer (TFT)**, achieving an **18% reduction in coverage interval error**
 - 💼 **Summer Intern** @ **Grant Thornton Bharat LLP** *(Jun–Jul 2024)* — Technology Advisory, audit workflows & internal control frameworks
 - 🏆 **AWS Certified** — AI Practitioner & Cloud Practitioner *(Valid Apr 2026–Apr 2029)*
-- 🥉 **3rd Place** — IdeaSpark Ideathon, Founders Club SRM *(2024)* · 🎤 Selected — **Leap Finance "Shadow a Founder"** *(2025)*
+- 🥉 **3rd Place** — IdeaSpark Ideathon, Founders Club SRM *(2024)*
 - 🧠 Building **[KATHA](https://github.com/arrya5/KATHA)** — a leak-proof multi-agent RAG engine; information asymmetry enforced in the retrieval layer, proven **0-leak** by an automated eval suite
 - 🌍 Shipped **[BLARAA Systems](https://github.com/arrya5/BLARAA-SYSTEMS)** — EU CBAM Carbon Compliance SaaS (React + FastAPI + Vercel)
 - 🎯 Focus: **Multi-Agent Systems · RAG · LangGraph · LLM Orchestration & Evals · Applied ML**
@@ -285,7 +285,6 @@
 | 🏆 AWS Certified AI Practitioner | Valid Apr 2026 – Apr 2029 | 2024 |
 | ☁️ AWS Certified Cloud Practitioner | Valid Apr 2026 – Apr 2029 | 2024 |
 | 🥉 3rd Place — IdeaSpark Ideathon | Founders Club, SRM | 2024 |
-| 🎤 Selected — Leap Finance "Shadow a Founder" | GenAI prototype challenge | 2025 |
 | 🔬 ML Research Intern | Indian Institute of Technology (IIT), Goa | 2025 |
 | 🌐 Rotary International Volunteer | 21+ hours, Community Development Projects | 2025 |
 
