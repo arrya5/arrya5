@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arrya%20Thakur&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arrya%20Thakur&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=GenAI%20%2F%20Applied%20AI%20Engineer%20%7C%20Multi-Agent%20%26%20RAG%20Systems&descSize=18&descAlignY=55"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=ML+Engineer+%7C+AI+Researcher+%7C+Full-Stack+Dev;Research+Intern+%40+IIT+Goa+%7C+PyTorch+%2B+TFT;Building+BLARAA+Systems+%E2%80%94+EU+CBAM+SaaS;Deep+Learning+%7C+Computer+Vision+%7C+FinTech;AWS+Certified+%7C+Open+to+Internships+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=640&height=60&lines=GenAI+%2F+Applied+AI+Engineer;Multi-Agent+%C2%B7+RAG+%C2%B7+LangGraph+%C2%B7+LLM+Evals;Building+KATHA+%E2%80%94+leak-proof+multi-agent+engine;Shipped+BLARAA+Systems+%E2%80%94+EU+CBAM+SaaS;Research+Intern+%40+IIT+Goa+%7C+AWS+Certified" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,16 +37,28 @@
 - 🔬 **ML Research Intern** @ **Indian Institute of Technology (IIT), Goa** *(May–Jul 2025)* — Built end-to-end financial forecasting pipelines: ARIMA → **Temporal Fusion Transformer (TFT)**, achieving an **18% reduction in coverage interval error**
 - 💼 **Summer Intern** @ **Grant Thornton Bharat LLP** *(Jun–Jul 2024)* — Technology Advisory, audit workflows & internal control frameworks
 - 🏆 **AWS Certified** — AI Practitioner & Cloud Practitioner *(Valid Apr 2026–Apr 2029)*
-- 🥉 **3rd Place** — IdeaSpark Ideathon, Founders Club SRM *(2024)*
-- 🌍 Building **[BLARAA Systems](https://github.com/arrya5)** — EU CBAM Carbon Compliance SaaS (React + FastAPI + Vercel)
-- 🎯 Areas of Interest: **FinTech & Algorithmic Trading · Deep Learning · Computer Vision · Full-Stack Dev**
-- 📚 Seeking: **ML Engineering internships & AI research roles** (Summer/Fall 2026) | Full-time from mid-2027
+- 🥉 **3rd Place** — IdeaSpark Ideathon, Founders Club SRM *(2024)* · 🎤 Selected — **Leap Finance "Shadow a Founder"** *(2025)*
+- 🧠 Building **[KATHA](https://github.com/arrya5/KATHA)** — a leak-proof multi-agent RAG engine; information asymmetry enforced in the retrieval layer, proven **0-leak** by an automated eval suite
+- 🌍 Shipped **[BLARAA Systems](https://github.com/arrya5/BLARAA-SYSTEMS)** — EU CBAM Carbon Compliance SaaS (React + FastAPI + Vercel)
+- 🎯 Focus: **Multi-Agent Systems · RAG · LangGraph · LLM Orchestration & Evals · Applied ML**
+- 📚 Seeking: **GenAI / Applied AI Engineer roles** (Summer/Fall 2026) | Full-time from mid-2027
 
 ---
 
 ## 🚀 Tech Stack
 
 <div align="center">
+
+### GenAI & LLM
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-6AD3F7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20(multi--layer)-4B8BBE?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Evals%20%2F%20Red--Teaming-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
 ### Languages & Web
 <table>
@@ -188,52 +200,78 @@
 <table>
 <tr>
   <td width="50%" valign="top">
-    <h3>🌍 BLARAA Systems</h3>
-    <p><em>EU CBAM Carbon Compliance SaaS · 2025–Present</em></p>
+    <h3>🧠 Katha — Leak-Proof Multi-Agent Engine</h3>
+    <p><em>Multi-Agent RAG · GenAI · 2026–Present</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+    </p>
+    <p>Each AI character can only retrieve facts it personally witnessed — <strong>information asymmetry enforced in the retrieval layer, not the prompt</strong>. Proven <strong>0 leaks across a 28-probe adversarial set</strong> by an eval suite that gates CI. Runs offline, no API keys.</p>
+    <a href="https://github.com/arrya5/KATHA"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://arrya5-katha.hf.space"><img src="https://img.shields.io/badge/▶%20Live%20Demo-FFD21E?style=for-the-badge&logoColor=black"/></a>
+  </td>
+  <td width="50%" valign="top">
+    <h3>🤖 Rocky — Autonomous AI Trading Agent</h3>
+    <p><em>Agentic Systems · LLM Orchestration · 2026–Present</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </p>
+    <p>Autonomous swing-trading agent for NSE/BSE — Gemini-orchestrated macro research + vision chart analysis, a <strong>9+1 execution gate</strong>, and walk-forward overfit detection. Runs on 5 scheduled GitHub Actions at <strong>₹0 infra cost</strong>. <em>(Paper-trading.)</em></p>
+    <a href="https://github.com/arrya5/Rocky-Trading-Bot"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>🌍 BLARAA Systems — Carbon Compliance SaaS</h3>
+    <p><em>Live Deployed SaaS · 2025–Present</em></p>
     <p>
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
     </p>
-    <p>Compliance engine automating <strong>EU Regulation 2023/1773</strong> reporting. Calculates Scope 1 & 2 emissions, generates legally valid XML files, implements a "Glass Box" audit trail with SQLite + Pydantic validators.</p>
-    <a href="https://github.com/arrya5"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <p>Live SaaS spanning five carbon & energy regulations (EU CBAM, India CCTS, RCO…). Generates CBAM-compliant XML in <strong>&lt;60s</strong>; a "Glass Box" audit trail enforces regulatory traceability via SQLite + Pydantic validators.</p>
+    <a href="https://github.com/arrya5/BLARAA-SYSTEMS"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://blaraa-systems.vercel.app"><img src="https://img.shields.io/badge/▶%20Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </td>
   <td width="50%" valign="top">
-    <h3>🚗 Real-Time Accident Detection System</h3>
-    <p><em>Computer Vision Research Project · 2025–Present</em></p>
+    <h3>📇 Reach CRM — Agentic CRM</h3>
+    <p><em>Agentic Tool-Use · Deployed · 2026</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/Multi--Agent-6AD3F7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </p>
+    <p>CRM driven by a <strong>bounded tool-use loop</strong> — provider-agnostic LLM, a Filter DSL that blocks LLM-driven SQL injection, and idempotent webhooks. Live deployment with a conscious trade-off design.</p>
+    <a href="https://github.com/arrya5/reach-crm"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h3>✂️ Self-Pruning Neural Network</h3>
+    <p><em>Applied ML · MLOps · 2026</em></p>
+    <p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </p>
+    <p>Dynamic neural-network sparsification in PyTorch (sigmoid gating + L1), served via FastAPI + Docker with pytest. Documents the <strong>hard-mask fix</strong> for the soft-pruning illusion — an honest engineering writeup.</p>
+    <a href="https://github.com/arrya5/Self-Pruning-Neural-Network-Dynamic-Sparsification-PyTorch-FastAPI"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </td>
+  <td width="50%" valign="top">
+    <h3>🚗 Real-Time Accident Detection</h3>
+    <p><em>Deep Learning · Computer Vision · 2025</em></p>
     <p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/MobileNet_V2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
     </p>
-    <p>Low-latency pipeline using <strong>Transfer Learning (MobileNet V2)</strong> with 3-phase progressive fine-tuning + custom Temporal Smoothing. Runs at <strong>25+ FPS</strong>; SMTP alerts with evidentiary screenshots to emergency services.</p>
-    <a href="https://github.com/arrya5"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    <h3>🎤 IELTS AI-Shadow</h3>
-    <p><em>GenAI Application · 2025</em></p>
-    <p>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini%202.0%20Flash-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </p>
-    <p>Live IELTS Speaking examiner conducting full mock interviews with <strong>band score prediction (0–9 scale)</strong>. Selected for <strong>Leap Finance "Shadow a Founder"</strong> challenge. Deployed publicly on Streamlit.</p>
-    <a href="https://github.com/arrya5"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </td>
-  <td width="50%" valign="top">
-    <h3>📈 Investment Portfolio Management System</h3>
-    <p><em>Full-Stack Stock Tracking App · 2025</em></p>
-    <p>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-    </p>
-    <p>Secure full-stack platform for tracking stock holdings & analysing portfolio performance via a dynamic React dashboard and RESTful backend with <strong>JWT authentication</strong>.</p>
-    <a href="https://github.com/arrya5"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <p>Low-latency pipeline using <strong>MobileNetV2 transfer learning</strong> with 3-phase progressive fine-tuning + custom temporal smoothing. Runs at <strong>25+ FPS</strong>; async SMTP alerts with evidentiary screenshots to emergency services.</p>
+    <a href="https://github.com/arrya5/accident-detection-system"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   </td>
 </tr>
 </table>
@@ -247,6 +285,7 @@
 | 🏆 AWS Certified AI Practitioner | Valid Apr 2026 – Apr 2029 | 2024 |
 | ☁️ AWS Certified Cloud Practitioner | Valid Apr 2026 – Apr 2029 | 2024 |
 | 🥉 3rd Place — IdeaSpark Ideathon | Founders Club, SRM | 2024 |
+| 🎤 Selected — Leap Finance "Shadow a Founder" | GenAI prototype challenge | 2025 |
 | 🔬 ML Research Intern | Indian Institute of Technology (IIT), Goa | 2025 |
 | 🌐 Rotary International Volunteer | 21+ hours, Community Development Projects | 2025 |
 
@@ -283,6 +322,6 @@
 
 **Thanks for visiting! Let's build something amazing together 🚀**
 
-*Open to ML Engineering internships & AI Research roles — Summer/Fall 2026*
+*Open to GenAI / Applied AI Engineer roles — Summer/Fall 2026*
 
 </div>
